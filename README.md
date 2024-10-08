@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @devzain-star
+- 👀 I’m interested in Android app development, AI integration, and mobile technologies.
+- 🌱 I’m currently learning Kotlin, Jetpack Compose, and exploring AI-driven features for mobile apps.
+- 💞️ I’m looking to collaborate on open-source Android projects, AI-powered mobile apps, or any innovative app development.
+- 📫 How to reach me via email at dev.zain711@gmail.com or on GitHub @devzain-star.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: What's that? hahaha
