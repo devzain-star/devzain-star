@@ -13,7 +13,7 @@ I build production-grade mobile and web applications — from polished Android a
 ## Projects
 
 **PawTalk** · Android · iOS · macOS · AI
-Dog translator app powered by Gemini AI. Interprets dog sounds and behaviors with a premium onboarding flow and subscription system.
+Dog translator app. Interprets dog sounds and behaviors with a premium onboarding flow and subscription system.
 
 **Sakura** · Android · iOS · macOS
 Japanese learning app with structured lessons, spaced repetition, and native-feel UI across all Apple and Android platforms.
