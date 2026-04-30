@@ -1,20 +1,20 @@
 # Zain Ul Abedin  
-Senior Mobile and Web Developer  
+### Senior Mobile and Web Developer  
 
-I design and build production grade mobile and web systems with a focus on scalability, performance, and clean architecture. My work spans Android and iOS development, full stack platforms, and AI powered applications used in real world environments.
+Building scalable mobile and web systems with clean architecture, real time performance, and practical AI integration.
 
 ---
 
-## What I Do
+## Engineering Focus
 
-I focus on engineering systems that are reliable, scalable, and maintainable. This includes designing backend architecture, building high performance mobile applications, and integrating AI into practical use cases.
+Mobile Systems  
+High performance Android and iOS applications with modern UI frameworks and optimized architecture  
 
-Core areas of work include  
+Backend Systems  
+Scalable APIs, multi tenant SaaS architecture, and structured data design  
 
-Scalable SaaS platform development  
-Real time mobile application architecture  
-AI powered search and data systems  
-End to end system design from frontend to backend  
+AI Integration  
+Production ready AI systems including embeddings, vector search, and intelligent features  
 
 ---
 
@@ -35,12 +35,6 @@ Hybrid filtering combining similarity and structured data
 Synchronous processing with background recovery pipelines  
 Analytics layer for tracking search and usage patterns  
 
-Impact  
-
-Enables intelligent talent discovery instead of manual filtering  
-Designed for scalability with growing image datasets  
-Optimized for performance and accuracy in search results  
-
 ---
 
 ### Spaces App  
@@ -59,12 +53,6 @@ Integrated media system using CameraX and video playback
 Scalable notification system using cloud functions  
 Full blocking and privacy control system across platform  
 
-Impact  
-
-Handles real time user interactions reliably  
-Designed for scalability with growing user activity  
-Optimized for smooth media and feed experience  
-
 ---
 
 ### Clinic SaaS  
@@ -82,12 +70,6 @@ Shared master data modules for system consistency
 Subscription and lifecycle management system  
 Scalable frontend using Next.js with structured UI system  
 
-Impact  
-
-Supports multiple organizations within a single system  
-Designed for maintainability and long term scalability  
-Provides structured workflows for healthcare environments  
-
 ---
 
 ### Cotton Everywhere  
@@ -103,29 +85,23 @@ Scalable product data modeling
 Responsive UI across multiple device sizes  
 Efficient backend communication for fast data access  
 
-Impact  
-
-Improves product visibility and user experience  
-Designed for fast performance in real world usage  
-Supports scalable catalog growth  
-
 ---
 
 ## Technical Stack
 
-Mobile Development  
+Mobile  
 Kotlin, Jetpack Compose, Swift, SwiftUI  
 
-Web and Frontend  
+Frontend  
 Next.js, TypeScript, Tailwind CSS  
 
-Backend and Data  
+Backend  
 Node.js, NestJS, PostgreSQL, Prisma  
 
-Cloud and Infrastructure  
+Cloud  
 Google Cloud, Firebase  
 
-AI and Data Systems  
+AI and Data  
 CLIP embeddings, pgvector, similarity search pipelines  
 
 ---
@@ -136,9 +112,9 @@ Designing scalable multi tenant systems with strong architectural foundations
 
 Building AI powered features that solve real world problems  
 
-Improving performance and reliability of mobile and backend systems  
+Optimizing mobile and backend performance for production environments  
 
-Refining system design patterns for long term maintainability  
+Refining clean architecture patterns for long term scalability  
 
 ---
 
