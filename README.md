@@ -1,31 +1,24 @@
 # Zain Ul Abedin
 **Senior Mobile & Web Developer**
 
----
-
 I build production-grade mobile and web applications — from polished Android and iOS interfaces to scalable backend systems. My work spans native mobile, AI-powered features, real-time platforms, and multi-tenant web products.
-
----
 
 ## Stack
 
 `Kotlin` `Jetpack Compose` `Android` `Hilt` `Firebase`
 `Swift` `SwiftUI` `UIKit` `Combine` `CoreData` `StoreKit`
-`Gemini API` `OpenAI GPT-4o` `CLIP` `pgvector`
-`PHP` `CodeIgniter` `Node.js` `NestJS` `Next.js` `TypeScript`
+`CLIP` `pgvector` `PHP` `Laravel` `React` `Node.js` `NestJS` `Next.js` `TypeScript`
 `PostgreSQL` `MySQL` `Prisma` `Google Cloud`
-
----
 
 ## Projects
 
-**PawTalk** · Android · iOS · AI
+**PawTalk** · Android · iOS · macOS · AI
 Dog translator app powered by Gemini AI. Interprets dog sounds and behaviors with a premium onboarding flow and subscription system.
 
-**Spaces** · Android · Social
-Full-screen social platform in the style of Reels. Posts, replies, follows, real-time feed, and CameraX media capture.
+**Sakura** · Android · iOS · macOS
+Japanese learning app with structured lessons, spaced repetition, and native-feel UI across all Apple and Android platforms.
 
-**AI Chat Assistant** · Android · AI
+**AI Chat Assistant** · Android · iOS · macOS · AI
 36 pre-built AI assistants across 6 categories. Full chat, history, and settings — with streaming and voice on the roadmap.
 
 **Educational Gaming Platform** · Web · Education
@@ -37,16 +30,12 @@ Talent search platform using image embeddings and vector similarity for casting 
 **Clinic SaaS** · Web · SaaS
 Multi-tenant healthcare management platform with role-based access for admins, doctors, and staff.
 
----
-
 ## Current Focus
 
-- Launching PawTalk on the Play Store
-- AI Chat Assistant V2 — streaming, voice, and image input
-- Educational Gaming Platform — live DB wiring and ranking system
-- Scalable SaaS architecture and real-time system design
-
----
+- Deepening expertise in cross-platform architecture across Android, iOS, and macOS
+- Advancing AI integration patterns for on-device and cloud-based inference
+- Strengthening system design fundamentals for real-time and multi-tenant applications
+- Exploring SwiftUI and Compose Multiplatform for shared UI across platforms
 
 ## Contact
 
